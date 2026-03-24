@@ -41,11 +41,11 @@
 
 | Proje | Açıklama | Teknoloji |
 |-------|----------|-----------|
-| 🏥 [Manuel Terapi](https://github.com/mesutarslan44/mesutmanuelterapi) | Manuel terapi hizmetleri tanıtım platformu | HTML, CSS |
-| 📊 [BIST 30 Analiz](https://mesutborsabist30.pages.dev/) | Gerçek zamanlı borsa analiz ve tahmin platformu | JS, Cloudflare |
-| 🧘 [Arslan Pilates](https://github.com/mesutarslan44/arslanpilates) | Pilates ürünleri tanıtım sayfası | HTML, CSS |
-| 🍽️ [Malatya Yöresel](https://github.com/mesutarslan44/Malatya-Yoresel-yemekler) | Malatya yöresel mutfağı tanıtım sitesi | HTML, CSS |
-| 🔍 [Google Clone](https://github.com/mesutarslan44/googleodev) | Google ana sayfası HTML/CSS klonu | HTML, CSS |
+| 📐 [ProGonyometre](https://github.com/mesutarslan44/ProGonyometre) | Duruş ve eklem analizi için hassas dijital mobil gonyometre uygulaması | React Native |
+| 📈 [Mesut Borsa BIST30](https://github.com/mesutarslan44/mesutborsabist30) | Cloudflare workers mimarisiyle anlık borsa teknik analiz aracı | JS, Cloudflare |
+| ⚔️ [Ulu Diyar](https://github.com/mesutarslan44/UluDiyar) | Zengin hikayeli, fantastik evrende geçen kapsamlı macera oyunu | Unity, C# |
+| 🧠 [İçgörü Psikoloji](https://github.com/mesutarslan44/IcGoru) | Kullanıcıların duygu takibini sağlayan interaktif kişisel gelişim uygulaması | React Native |
+| 🐍 [Snake Planet](https://github.com/mesutarslan44/SnakePlanet) | Klasik oyunu modern yaklaşımla birleştiren yenilikçi 2D/3D yılan oyunu | React Native |
 
 ---
 
