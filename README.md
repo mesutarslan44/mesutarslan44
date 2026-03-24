@@ -14,6 +14,8 @@
 ### 🔥 Hakkımda
 
 - 🌍 **Malatya** kökenli, teknoloji ve sağlık alanında projeler geliştiren bir yazılımcıyım
+- 🎓 **Bilgisayar Programcılığı** mezunuyum
+- 🎥 Aynı zamanda aktif içerikler üreten bir **YouTuber**'ım
 - 📱 **React Native** ile birçok mobil uygulama geliştirdim
 - 🏥 Manuel terapi ve fizik tedavi alanında **dijital çözümler** üretiyorum
 - 📊 **BIST 30 analiz platformu** geliştiriyorum — gerçek zamanlı borsa verileriyle çalışan web uygulaması
