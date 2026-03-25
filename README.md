@@ -48,34 +48,38 @@ Klinik ihtiyaclari, operasyonel sorunlari ve kullanici deneyimini bir araya geti
 
 
 
+
 ### Vitrin Ekranlari
 
 <p align="center">
-  <img src="./docs/showcase/progonyometre-1.jpg" alt="ProGonyometre" width="24%" />
-  <img src="./docs/showcase/icgoru-1.jpg" alt="IcGoru" width="24%" />
-  <img src="./docs/showcase/snakeplanet-1.png" alt="SnakePlanet" width="24%" />
-  <img src="./docs/showcase/namazrehberim-1.jpg" alt="NamazRehberim Pro" width="24%" />
+  <img src="./docs/showcase/progonyometre-1.jpg" alt="ProGonyometre" width="30.5%" />
+  <img src="./docs/showcase/icgoru-1.jpg" alt="IcGoru" width="30.5%" />
+  <img src="./docs/showcase/snakeplanet-1.png" alt="SnakePlanet" width="30.5%" />
 </p>
 
 <p align="center">
-  <img src="./docs/showcase/bilsem-1.jpg" alt="Bilsem Matematik" width="24%" />
-  <img src="./docs/showcase/galaksi-1.png" alt="Galaksi Fatihi" width="24%" />
-  <img src="./docs/showcase/yasin-1.jpg" alt="Yasin" width="24%" />
-  <img src="./docs/showcase/kolaytelefon-1.jpg" alt="Kolay Telefon" width="24%" />
+  <img src="./docs/showcase/namazrehberim-1.jpg" alt="NamazRehberim Pro" width="22.8%" />
+  <img src="./docs/showcase/bilsem-1.jpg" alt="Bilsem Matematik" width="22.8%" />
+  <img src="./docs/showcase/galaksi-1.png" alt="Galaksi Fatihi" width="22.8%" />
+  <img src="./docs/showcase/yasin-1.jpg" alt="Yasin" width="22.8%" />
 </p>
 
 <p align="center">
-  <img src="./docs/showcase/progonyometre-2.jpg" alt="ProGonyometre detail" width="24%" />
-  <img src="./docs/showcase/icgoru-2.jpg" alt="IcGoru detail" width="24%" />
-  <img src="./docs/showcase/snakeplanet-2.png" alt="SnakePlanet detail" width="24%" />
-  <img src="./docs/showcase/namazrehberim-2.jpg" alt="NamazRehberim Pro detail" width="24%" />
+  <img src="./docs/showcase/kolaytelefon-1.jpg" alt="Kolay Telefon" width="46.2%" />
+  <img src="./docs/showcase/progonyometre-2.jpg" alt="ProGonyometre detail" width="46.2%" />
 </p>
 
 <p align="center">
-  <img src="./docs/showcase/bilsem-2.jpg" alt="Bilsem Matematik detail" width="24%" />
-  <img src="./docs/showcase/galaksi-2.png" alt="Galaksi Fatihi detail" width="24%" />
-  <img src="./docs/showcase/yasin-2.jpg" alt="Yasin detail" width="24%" />
-  <img src="./docs/showcase/kolaytelefon-2.jpg" alt="Kolay Telefon detail" width="24%" />
+  <img src="./docs/showcase/icgoru-2.jpg" alt="IcGoru detail" width="22.8%" />
+  <img src="./docs/showcase/snakeplanet-2.png" alt="SnakePlanet detail" width="22.8%" />
+  <img src="./docs/showcase/namazrehberim-2.jpg" alt="NamazRehberim Pro detail" width="22.8%" />
+  <img src="./docs/showcase/bilsem-2.jpg" alt="Bilsem Matematik detail" width="22.8%" />
+</p>
+
+<p align="center">
+  <img src="./docs/showcase/galaksi-2.png" alt="Galaksi Fatihi detail" width="30.5%" />
+  <img src="./docs/showcase/yasin-2.jpg" alt="Yasin detail" width="30.5%" />
+  <img src="./docs/showcase/kolaytelefon-2.jpg" alt="Kolay Telefon detail" width="30.5%" />
 </p>
 
 ---
