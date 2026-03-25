@@ -1,10 +1,14 @@
+<p align="center">
+  <img src="./docs/profile-cover.svg" alt="Mesut Arslan profile cover" width="100%" />
+</p>
+
 <div align="center">
 
 # Mesut Arslan
 
-### Fizyoterapist • Mobile & Full Stack Developer • Health Tech Builder
+### Fizyoterapist - Mobile & Full Stack Developer - Health Tech Builder
 
-Klinik ihtiyaclari, operasyonel sorunlari ve kullanici deneyimini bir araya getirerek gercek hayatta ise yarayan dijital urunler tasarliyorum.
+Klinik ihtiyaclari, operasyonel sorunlari ve kullanici deneyimini bir araya getirerek gercek hayatta kullanilan dijital urunler tasarliyorum.
 
 [![GitHub followers](https://img.shields.io/github/followers/mesutarslan44?style=social)](https://github.com/mesutarslan44)
 [![GitHub stars](https://img.shields.io/github/stars/mesutarslan44?style=social)](https://github.com/mesutarslan44)
@@ -13,34 +17,45 @@ Klinik ihtiyaclari, operasyonel sorunlari ve kullanici deneyimini bir araya geti
 
 ---
 
-### Hakkimda
+### Neyi Farkli Yapiyorum
 
-- Saglik alanindan gelen bir gelistirici olarak **fizyoterapi sureclerini dijitallestiren** urunler uzerinde calisiyorum.
-- Ozellikle **React Native**, **JavaScript/TypeScript**, **Python** ve modern web teknolojileri ile hizli urun cikarmayi seviyorum.
-- Ilgi alanlarim: **health tech**, **mobil uygulamalar**, **operasyon panelleri**, **hasta egitimi** ve secili **fintech** projeleri.
-- Amacim sadece kod yazmak degil; sahada kullanilabilecek, net problem cozen urunler ortaya cikarmak.
-
----
+- Saglik alanindan gelen bir gelistirici olarak problemi sahadan okuyup urune ceviriyorum.
+- Mobil uygulama, operasyon paneli ve kullanici deneyimi tarafini birlikte dusunuyorum.
+- Amacim sadece kod yazmak degil; tekrar tekrar kullanilacak, net problem cozen urunler cikarmak.
 
 ### Odak Alanlarim
 
-- Saglik profesyonelleri icin pratik mobil araclar
-- Klinik is akislarini kolaylastiran web panelleri
-- Olcum, takip ve raporlama odakli dijital urunler
-- Kullanici deneyimi yuksek, sade ama guclu arayuzler
+- Health tech urunleri
+- Fizyoterapi ve klinik is akislari
+- React Native tabanli mobil uygulamalar
+- Operasyon paneli ve ic araclar
+- Secili fintech ve analiz urunleri
 
 ---
 
-### Secili Projeler
+### One Cikan Urunler
 
-| Proje | Ne yapiyor? | Teknoloji |
+| Proje | Rol | Kisa Aciklama |
 |---|---|---|
-| [ProGonyometre](https://github.com/mesutarslan44/ProGonyometre) | Eklem hareket acikligini telefon sensorleriyle olcmeye odaklanan medikal mobil arac | React Native |
-| [fizyoterapi-gorev](https://github.com/mesutarslan44/fizyoterapi-gorev) | Unite ici gorev dagilimi, izin takibi ve operasyonel yonetim icin web paneli | HTML, CSS, JavaScript |
-| [mesutborsabist30](https://github.com/mesutarslan44/mesutborsabist30) | BIST 30 verisi etrafinda sekillenen analiz ve takip araci | JavaScript, Cloudflare |
-| [IcGoru](https://github.com/mesutarslan44/IcGoru) | Duygu takibi ve psikolojik farkindalik odakli mobil uygulama | React Native |
-| [SmileHeroExpo](https://github.com/mesutarslan44/SmileHeroExpo) | Dis fircalama aliskanligini destekleyen, oyunlastirilmis saglik uygulamasi | React Native |
-| [SnakePlanet](https://github.com/mesutarslan44/SnakePlanet) | Klasik oyunu modern bir mobil deneyime ceviren oyun projesi | JavaScript |
+| [ProGonyometre](https://github.com/mesutarslan44/ProGonyometre) | Mobile health tool | Telefon sensorleriyle eklem hareket acikligi olcumu |
+| [fizyoterapi-gorev](https://github.com/mesutarslan44/fizyoterapi-gorev) | Internal ops dashboard | Gorev dagilimi, izin takibi ve ekip koordinasyonu |
+| [mesutborsabist30](https://github.com/mesutarslan44/mesutborsabist30) | Fintech dashboard | BIST 30 odakli sinyal ve piyasa takip urunu |
+| [IcGoru](https://github.com/mesutarslan44/IcGoru) | Wellbeing app | Duygu takibi ve oz-farkindalik odakli mobil urun |
+| [SmileHeroExpo](https://github.com/mesutarslan44/SmileHeroExpo) | Habit app | Dis fircalama aliskanligini destekleyen oyunlastirilmis uygulama |
+| [SnakePlanet](https://github.com/mesutarslan44/SnakePlanet) | Mobile game | Klasik yilan fikrini daha cilali mobil deneyime ceviren oyun |
+
+---
+
+### Vitrin Ekranlari
+
+|  |  |
+|---|---|
+| <img src="./docs/showcase/progonyometre.jpg" alt="ProGonyometre" width="100%" /> | <img src="./docs/showcase/icgoru.jpg" alt="IcGoru" width="100%" /> |
+| <img src="./docs/showcase/snakeplanet.png" alt="SnakePlanet" width="100%" /> | <img src="./docs/showcase/namazrehberimpro.png" alt="NamazRehberim Pro" width="100%" /> |
+
+<p align="center">
+  <img src="./docs/showcase/bilsem-matematik.jpg" alt="Bilsem Matematik" width="49%" />
+</p>
 
 ---
 
@@ -54,27 +69,14 @@ Klinik ihtiyaclari, operasyonel sorunlari ve kullanici deneyimini bir araya geti
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 </div>
 
 ---
 
-### GitHub Istatistikleri
-
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mesutarslan44&show_icons=true&theme=tokyonight&locale=tr&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mesutarslan44&layout=compact&theme=tokyonight&locale=tr&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-**Saglik ve yazilimi bulusturan urunler gelistiriyorum.**
+**Saglik ve yazilimi bulusturan, urun odakli projeler gelistiriyorum.**
 
 </div>
