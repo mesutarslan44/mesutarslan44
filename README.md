@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./docs/profile-cover.png" alt="Mesut Arslan profile cover" width="100%" />
-</p>
+
 
 <div align="center">
 
